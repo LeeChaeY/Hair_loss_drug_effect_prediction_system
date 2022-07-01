@@ -1,4 +1,4 @@
-# Predicting-the-effects-of-hair-loss
+# 탈모약 성분 효과 예측 시스템
 
 <br>소셜미디어 데이터를 활용한 탈모약 성분 효과 예측 시스템입니다.</br>
 
